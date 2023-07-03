@@ -1,4 +1,4 @@
 $ git reset HEAD~1
-# Remove the most recent commit
-# Commit again!
+#Remove the most recent commit
+#Commit again!
 
